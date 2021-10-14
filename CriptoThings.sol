@@ -7,8 +7,8 @@ contract Token {
     mapping(address => mapping(address => uint)) public allowance;
     
     uint public totalSupply = 90000 * 10 ** 8;
-    string public name = "RankingThings";
-    string public symbol = "RKT";
+    string public name = "CriptoThings";
+    string public symbol = "CriptoThing";
     uint public decimals = 8;
     
     event Transfer(address indexed from, address indexed to, uint value);
