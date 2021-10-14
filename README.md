@@ -23,7 +23,7 @@ Desenvolvimento de um token baseado na blockchain da Smartchain testnet
 * OBS: É necessário ter o git instalado em sua máquina
 * Executar o Seguinte comando no seu **Terminal**  ou no **CMD**:
 
-  ## `https://github.com/Doni-zete/Token-blockchain-Binance.git`
+  ## ` git clone https://github.com/Doni-zete/Token-blockchain-Binance.git`
         
         
         
